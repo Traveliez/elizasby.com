@@ -1,0 +1,2 @@
+[03-Aug-2018 06:44:35 UTC] PHP Warning:  require(classes/reg.php): failed to open stream: No such file or directory in /home/u5238264/public_html/elizasby.net/classes/testmail.php on line 2
+[03-Aug-2018 06:44:35 UTC] PHP Fatal error:  require(): Failed opening required 'classes/reg.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/u5238264/public_html/elizasby.net/classes/testmail.php on line 2
