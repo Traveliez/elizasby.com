@@ -255,7 +255,7 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<h2>
-																		Validasi Akun Trading Berhasil</h2>
+																		Withdrawal Saku $kodesaku</h2>
 																	<h4>
 																		Kpd. Yth ".$cUser.",</h4>
 																</div>
@@ -271,9 +271,13 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<p>Nomor Akun : ".$no_akun." </p>
-																	<p>Nama : ".$cNama."</p>
-																	<p>Broker : ".$broker."</p><br>
-																	<p>Akun anda telah berhasil terdaftar di WarungBroker, dan anda sudah bisa melakukan transaksi deposit dan withdrawal.</p>
+																	<p>Broker : ".$broker."</p>
+																	<p>Withdrawal : $ ".$withdrawal."</p><br>
+																	<p>Tujuan transfer withdrawal ke <br>".$bank." - ".$norek." <br> A/N ".$namarek."</p>
+																	<br>
+																	<p>Silahkan Klik Link Konfirmasi Di Bawah Ini :</p><br>
+                                                        <a target='_blank' href='https://elizasby.com/confirmsaku.php?cs=".$wdr."' class='link2'>Konfirmasi Withdrawal Saku</a>
+																	
 																</div>
 															</div>
 														</td>
@@ -283,12 +287,12 @@ td[class='spechide']
 														</td>
 													</tr>
 													<tr>
-														<td align='right' style='padding-bottom:8px;' valign='top'>
+														<!-- <td align='right' style='padding-bottom:8px;' valign='top'>
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<a target='_blank' href='http://warungbroker.com/login' class='link2' style='color:#ffffff;'>Login → </a></div>
 															</div>
-														</td>
+														</td> -->
 													</tr>
 												</tbody>
 											</table>

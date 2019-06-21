@@ -255,7 +255,7 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<h2>
-																		Validasi Akun Trading Berhasil</h2>
+																		Deposit Akun Trading </h2>
 																	<h4>
 																		Kpd. Yth ".$cUser.",</h4>
 																</div>
@@ -271,9 +271,9 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<p>Nomor Akun : ".$no_akun." </p>
-																	<p>Nama : ".$cNama."</p>
-																	<p>Broker : ".$broker."</p><br>
-																	<p>Akun anda telah berhasil terdaftar di WarungBroker, dan anda sudah bisa melakukan transaksi deposit dan withdrawal.</p>
+																	<p>Broker : ".$broker."</p>
+																	<p>Deposit : $ ".$deposit."</p><br>
+																	<p>Silahkan melakukan transfer sebesar <strong>Rp. ".$total."</strong> ke  : <br> ".$norek." <br> </p>
 																</div>
 															</div>
 														</td>

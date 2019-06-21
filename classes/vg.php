@@ -209,7 +209,7 @@ td[class='spechide']
 					<td align='center' bgcolor='#52619E' height='184' style='background:url('imgs/wb1.png') #52619E no-repeat;background-size:560px 184px;' valign='middle' width='560'>
 						<div class='contentEditableContainer contentImageEditable'>
 							<div class='contentEditable'>
-								<img class='banner' alt='product image' data-default='placeholder' data-max-width='560' height='184' src='http://warungbroker.com/classes/imgs/wblogo.png' width='560' /></div>
+								<img class='banner' alt='product image' data-default='placeholder' data-max-width='560' height='184' src='http://warungbroker.com/classes/imgs/wb1.png' width='560' /></div>
 						</div>
 					</td>
 				</tr>
@@ -255,7 +255,7 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<h2>
-																		Validasi Akun Trading Gagal</h2>
+																		Validasi Akun Trading Berhasil</h2>
 																	<h4>
 																		Kpd. Yth ".$cUser.",</h4>
 																</div>
@@ -482,7 +482,7 @@ td[class='spechide']
 														<td width='251' align='center' valign='middle'>
 															<div class='contentEditableContainer contentImageEditable'>
 																<div class='contentEditable'>
-																	<a href='http://warungbroker.com/brokers.php?b=firewoodfx' target='_blank'> <img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/firewoodfx.jpg' width='251' /></a></div>
+																	<img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/firewoodfx.jpg' width='251' /></div>
 															</div>
 														</td>
 														<td width='9'>
@@ -509,7 +509,7 @@ td[class='spechide']
 														<td width='251' align='center' valign='middle'>
 															<div class='contentEditableContainer contentImageEditable'>
 																<div class='contentEditable'>
-																	<a href='http://warungbroker.com/brokers.php?b=insta forex' target='_blank'><img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/insta.jpg' width='251' /></a></div>
+																	<img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/insta.jpg' width='251' /></div>
 															</div>
 														</td>
 														<td width='9'>
@@ -555,7 +555,7 @@ td[class='spechide']
 														<td width='251' align='center' valign='middle'>
 															<div class='contentEditableContainer contentImageEditable'>
 																<div class='contentEditable'>
-																	<a href='http://warungbroker.com/brokers.php?b=tickmill' target='_blank'><img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/tickmill.jpg' width='251' /></a></div>
+																	<img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/tickmill.jpg' width='251' /></div>
 															</div>
 														</td>
 														<td width='9'>
@@ -582,7 +582,7 @@ td[class='spechide']
 														<td width='251' align='center' valign='middle'>
 															<div class='contentEditableContainer contentImageEditable'>
 																<div class='contentEditable'>
-																	<a href='http://warungbroker.com/brokers.php?b=xm' target='_blank'><img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/xm.jpg' width='251' /></a></div>
+																	<img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/xm.jpg' width='251' /></div>
 															</div>
 														</td>
 														<td width='9'>
@@ -628,7 +628,7 @@ td[class='spechide']
 														<td width='251' align='center' valign='middle'>
 															<div class='contentEditableContainer contentImageEditable'>
 																<div class='contentEditable'>
-																	<a href='http://warungbroker.com/brokers.php?b=fbs' target='_blank'><img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/fbs.jpg' width='251' /></a></div>
+																	<img alt='product image' data-default='placeholder' data-max-width='251' height='142' src='http://warungbroker.com/classes/imgs/fbs.jpg' width='251' /></div>
 															</div>
 														</td>
 														<td width='9'>

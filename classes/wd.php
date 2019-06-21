@@ -255,7 +255,7 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<h2>
-																		Validasi Akun Trading Berhasil</h2>
+																		Withdrawal Akun Trading</h2>
 																	<h4>
 																		Kpd. Yth ".$cUser.",</h4>
 																</div>
@@ -271,9 +271,13 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<p>Nomor Akun : ".$no_akun." </p>
-																	<p>Nama : ".$cNama."</p>
-																	<p>Broker : ".$broker."</p><br>
-																	<p>Akun anda telah berhasil terdaftar di WarungBroker, dan anda sudah bisa melakukan transaksi deposit dan withdrawal.</p>
+																	<p>Broker : ".$broker."</p>
+																	<p>Withdrawal : $ ".$withdrawal."</p><br>
+																	<p>Tujuan transfer withdrawal ke <br>".$bank." - ".$norek." <br> A/N ".$namarek."</p>
+																	<br>
+																	<p>Bukti Transfer: <a href='http://elizasby.net/bukti_transfer/.$bukti.'>Klik Disini</a></p><br>
+																	<p>*Withdrawal anda akan kami proses setelah dana dari akun anda masuk ke WarungBroker  </p>
+																	
 																</div>
 															</div>
 														</td>

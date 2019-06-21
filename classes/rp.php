@@ -255,9 +255,9 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<h2>
-																		Validasi Akun Trading Berhasil</h2>
+																		Reset Password</h2>
 																	<h4>
-																		Kpd. Yth ".$cUser.",</h4>
+																		Kpd. Yth ".$email.",</h4>
 																</div>
 															</div>
 														</td>
@@ -270,10 +270,10 @@ td[class='spechide']
 														<td align='left' valign='top'>
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
-																	<p>Nomor Akun : ".$no_akun." </p>
-																	<p>Nama : ".$cNama."</p>
-																	<p>Broker : ".$broker."</p><br>
-																	<p>Akun anda telah berhasil terdaftar di WarungBroker, dan anda sudah bisa melakukan transaksi deposit dan withdrawal.</p>
+																	
+																	<p>Silahkan Klik Link Reset Password Di Bawah Ini :</p><br>
+                                                        <a target='_blank' href='https://elizasby.com/lp.php?e=".$email."' class='link2'>Reset Password</a>
+																	
 																</div>
 															</div>
 														</td>
@@ -283,12 +283,12 @@ td[class='spechide']
 														</td>
 													</tr>
 													<tr>
-														<td align='right' style='padding-bottom:8px;' valign='top'>
+														<!-- <td align='right' style='padding-bottom:8px;' valign='top'>
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<a target='_blank' href='http://warungbroker.com/login' class='link2' style='color:#ffffff;'>Login → </a></div>
 															</div>
-														</td>
+														</td> -->
 													</tr>
 												</tbody>
 											</table>

@@ -256,6 +256,8 @@ td[class='spechide']
 																<div class='contentEditable'>
 																	<h2>
 																		Registrasi</h2>
+																	<h4>
+																		Kpd. Yth ".$email.",</h4>
 																</div>
 															</div>
 														</td>

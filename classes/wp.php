@@ -209,7 +209,7 @@ td[class='spechide']
 					<td align='center' bgcolor='#52619E' height='184' style='background:url('imgs/wb1.png') #52619E no-repeat;background-size:560px 184px;' valign='middle' width='560'>
 						<div class='contentEditableContainer contentImageEditable'>
 							<div class='contentEditable'>
-								<img class='banner' alt='product image' data-default='placeholder' data-max-width='560' height='184' src='http://warungbroker.com/classes/imgs/wblogo.png' width='560' /></div>
+								<img class='banner' alt='product image' data-default='placeholder' data-max-width='560' height='184' src='http://warungbroker.com/classes/imgs/wb1.png' width='560' /></div>
 						</div>
 					</td>
 				</tr>
@@ -255,7 +255,7 @@ td[class='spechide']
 															<div class='contentEditableContainer contentTextEditable'>
 																<div class='contentEditable'>
 																	<h2>
-																		Withdrawal Akun Trading Berhasil</h2>
+																		Deposit Akun Trading Berhasil</h2>
 																	<h4>
 																		Kpd. Yth ".$cUser.",</h4>
 																</div>
@@ -273,9 +273,8 @@ td[class='spechide']
 																	<p>Nomor Akun : ".$no_akun." </p>
 																	<p>Broker : ".$broker."</p>
 																	<p>Withdrawal : $ ".$withdrawal."</p><br>
-																	<br>
-																	<img src=\'cid:buktiTF\'>
-																	<br>
+																	
+																	<p>Sudah Kami Transfer ke : <br> ".$bank." - ".$norek." <br> A/N ".$namarek.".</p>
 																	<p>Terimakasih telah menjadikan WarungBroker sebagai partner trading anda</p>
 																</div>
 															</div>
