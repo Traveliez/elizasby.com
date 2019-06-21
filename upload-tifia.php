@@ -45,7 +45,7 @@ if (isset($_FILES['file']['name']) && in_array($_FILES['file']['type'], $file_mi
             echo "
                 <script>
                     alert('$data[2] tidak ditemukan');
-                    document.location.href = 'tampilan-fbs.php';
+                    document.location.href = 'tampilan-tifia.php';
                 </script>
                 ";
         }
@@ -53,15 +53,15 @@ if (isset($_FILES['file']['name']) && in_array($_FILES['file']['type'], $file_mi
         if (isset($bank[0])) {
             $tanggal = date('Y-m-d H:i:s');
             $xx = "'" . implode("','", $data) . "'";
-            $sql = "INSERT INTO data_fbs (tanggal, periode, no_akun, email, auto_rebate, rebate_dollar, rebate_rupiah, lot, bank, norek) VALUES ('$tanggal', $xx, '" . $bank[0]['bank'] . "', '" . $bank[0]['norek'] . "')";
+            $sql = "INSERT INTO data_tifia (tanggal, periode, no_akun, email, auto_rebate, rebate_dollar, rebate_rupiah, lot, bank, norek) VALUES ('$tanggal', $xx, '" . $bank[0]['bank'] . "', '" . $bank[0]['norek'] . "')";
             $insert = mysqli_query($conn, $sql);
             if ($insert === TRUE) {
-                header('Location: tampilan-fbs.php');
+                header('Location: tampilan-tifia.php');
             } else {
                 echo "
                 <script>
                     alert('upload gagal');
-                    document.location.href = 'tampilan-fbs.php';
+                    document.location.href = 'tampilan-tifia.php';
                 </script>
                 ";
             }

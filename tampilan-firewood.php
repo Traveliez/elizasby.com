@@ -7,6 +7,8 @@ session_start();
     require 'include/fungsi.php';
     require 'include/header.php';
     $juhal = "rebate_xls";
+
+    $tampil_firewood = query("SELECT * FROM data_firewood ORDER BY id DESC");
 ?>
 
 <body class="theme-blue">
@@ -58,18 +60,11 @@ session_start();
                     <div class="card">
                         <div class="header">
                             <h1>
-                                Data XLS FireWood
+                                Data XLS Firewood
                             </h1>
-                            <form action='' method='post' enctype='multipart/form-data'>
-                            <label for="file-upload" class="custom-file-upload">
-                                <i class="material-icons">search</i> Browse File
-                            </label>
-                              <input id="file-upload" name="upload-firewood" type="file"/>
-                              
-                            <label for="file-submit" class="custom-file-submit">
-                                <i class="material-icons">cloud_upload</i> Upload
-                            </label>
-                              <input id="file-submit" name="submit-firewood" type="submit"/>
+                            <form action='upload-fbs.php' method='post' enctype='multipart/form-data'>
+                                <input class="custom-file-upload" id="file-upload" type="file" name="file"/>
+                                <input class="custom-file-submit" id="file-submit" type="submit" value="Upload"/> 
                     		</form>
                         </div>
                         
@@ -78,18 +73,113 @@ session_start();
                                 <table class="table table-bordered table-striped table-hover js-basic-example dataTable">
                                     <thead>
                                         <tr>
-                                            <th>No</th>        
+                                          
                                             <!-- <th>Email</th> -->
-                                            <th>Account</th>
-                                            <th>Nama Client</th>
-                                            
+                                            <th>Tanggal</th>
+                                            <th>Periode</th>
+                                            <th>ID</th>
+                                            <th>Email</th>
                                             <th>Auto Rebate</th>
                                             <th>Rebate Client($)</th>  
-                                            <th>Rebate Client(Rp)</th>                                              
+                                            <th>Rebate Client(Rp)</th>
                                             <th>LOT</th>
+                                            <th>No Rekening</th>
+                                            <th>Bank</th>
+                                            <th>Bukti Transaksi</th>
+                                            <th>Action</th>
                                         </tr>
                                     </thead>
                                     <tbody>
+                                    <?php $i = 1; ?>
+                                    <?php foreach ($tampil_firewood as $row ) : ?> 
+                                        <tr>
+                                            <td>
+                                                <?php 
+                                                    $t = $row['tanggal'];
+                                                    $ta = substr($t,8,2);
+                                                    $bu = substr($t,5,2);
+                                                    $tah = substr($t,2,2);
+                                                    if ($bu === '01' ) {
+                                                        $bul = "Jan";
+                                                    }elseif ($bu === '02' ) {
+                                                        $bul = "Feb";
+                                                    }elseif ($bu === '03' ) {
+                                                        $bul = "Maret";
+                                                    }elseif ($bu === '04' ) {
+                                                        $bul = "April"; 
+                                                    }elseif ($bu === '05' ) {
+                                                        $bul = "Mei";
+                                                    }elseif ($bu === '06' ) {
+                                                        $bul = "Juni";
+                                                    }elseif ($bu === '07' ) {
+                                                        $bul = "Juli";
+                                                    }elseif ($bu === '08' ) {
+                                                        $bul = "Agust";
+                                                    }elseif ($bu === '09' ) {
+                                                        $bul = "Sept";
+                                                    }elseif ($bu === '10' ) {
+                                                        $bul = "Okt";
+                                                    }elseif ($bu === '11' ) {
+                                                        $bul = "Nov";
+                                                    }else{
+                                                        $bul = "Des";
+                                                    }
+                                                    echo $ta.'-'.$bul.'-'.$tah;
+                                                ?>
+                                            </td>
+                                            <td><?= $row["periode"] ?></td>                          
+                                            <td><?= $row["no_akun"] ?></td>                          
+                                            <td><?= $row["email"] ?></td>
+                                            <td><?= $row["auto_rebate"] ?></td>
+                                            <td><?= $row["rebate_dollar"] ?></td>
+                                            <td><?= $row["rebate_rupiah"] ?></td>
+                                            <td><?= $row["lot"] ?></td>
+                                            <td><?= $row["norek"] ?></td>
+                                            <td><?= $row["bank"] ?></td>
+                                            <td>
+                                        
+                                            <?php 
+                                            $idbukti = $row['id'];
+                                            
+                                            $query = query("SELECT * FROM data_firewood WHERE id='$idbukti'");
+											foreach ($query as $row ) {
+												if($row['bukti_transaksi'] != ""){
+													echo '<img class="zoom"  src="bukti_transfer/'.$row['bukti_transaksi'].'" style="width:80%; max-width:200px; height:100%; max-height:200px">';
+													echo "<form action='upload_bukti_tf_fbs.php?id=$idbukti' method='post' enctype='multipart/form-data'>
+													<input class='custom-file-upload' id='file-upload' type='file' name='file'>
+	 
+													<input class='custom-file-submit' id='file-submit' type='submit' name='edit' value='Edit'>
+													</form>
+													";
+												} else {
+													echo "<form action='upload_bukti_tf_fbs.php?id=$idbukti' method='post' enctype='multipart/form-data'>
+
+													<input class='custom-file-upload' type='file' name='file'>
+	 
+													<input class='custom-file-submit' type='submit' name='upload' value='Upload'>
+													</form>
+													";
+												}
+                                                
+											}
+                    		                ?>
+                    		                </td>
+                    		                
+                    		                
+                                            <td class="actions">
+                                                <a href="add/firewood/accept.php?id=<?= $row["id"] ?>" >
+                                                    <span class="badge bg-cyan"><i class="material-icons">done</i></span> 
+                                                </a> ||
+                                                <a href="add/firewood/cancel.php?id=<?= $row["id"] ?>" onClick="if(confirm('Apakah anda yakin ?')){return true}else{return false}" >
+                                                    <span class="badge bg-orange"><i class="material-icons">close</i></span>
+                                                </a> ||
+                                                <a href="add/firewood/delete.php?id=<?= $row["id"] ?>" onClick="if(confirm('Apakah anda yakin ingin menghapusnya ?')){return true}else{return false}" >
+                                                    <span class="badge bg-pink"><i class="material-icons">delete</i></span>
+                                                </a>
+                                            </td> 
+                                        </tr>
+                                        <?php $i++; ?>
+                                        <?php endforeach; ?>
                                     </tbody>
                                 </table>
                             </div>
