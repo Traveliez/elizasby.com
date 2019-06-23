@@ -115,7 +115,7 @@ $wp = query("SELECT * FROM validasi WHERE id = $idd") [0];
                 $mail->Port = 587;
                 $mail->SMTPAuth = true;
                 $mail->Username = "cs@warungbroker.com"; //user email
-                $mail->Password = "wb2018"; //password email 
+                $mail->Password = "br0k3r"; //password email 
                 $mail->SetFrom("cs@warungbroker.com", "WarungBroker.com"); //set email pengirim
                 $mail->Subject = $SubjectMsg; //subyek email
                 $mail->AddAddress($cEmail);  //tujuan email

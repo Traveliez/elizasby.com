@@ -138,7 +138,7 @@ $ratedepo = query("SELECT * FROM rate WHERE broker = '$broker' ")[0];
                 $mail->SMTPAuth = true;
                 $mail->AddEmbeddedImage('../bukti_transfer/'.$bukti_transfer, 'buktiTF');
                 $mail->Username = "cs@warungbroker.com"; //user email
-                $mail->Password = "wb2018"; //password email 
+                $mail->Password = "br0k3r"; //password email 
                 $mail->SetFrom("cs@warungbroker.com", "WarungBroker.com"); //set email pengirim
                 $mail->Subject = $SubjectMsg; //subyek email
                 $mail->AddAddress($cEmail);  //tujuan email

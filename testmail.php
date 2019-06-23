@@ -15,7 +15,7 @@ include "classes/class.phpmailer.php";
         $mail->Port = 587;
         $mail->SMTPAuth = true;
         $mail->Username = "cs@warungbroker.com"; //user email
-        $mail->Password = "elizasby2018"; //password email 
+        $mail->Password = "br0k3r"; //password email 
         $mail->SetFrom("cs@warungbroker.com", "warungbroker.com"); //set email pengirim
         $mail->Subject = $SubjectMsg; //subyek email
         $mail->AddAddress($cEmail);  //tujuan email

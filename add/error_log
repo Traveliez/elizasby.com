@@ -125,3 +125,28 @@ Stack trace:
 [16-Apr-2019 16:59:57 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
 [16-Apr-2019 20:17:08 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
 [17-Apr-2019 00:15:33 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[19-Apr-2019 08:27:06 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[20-Apr-2019 21:27:43 Asia/Jakarta] PHP Notice:  Undefined index: id_member in /home/u5238264/public_html/elizasby.net/add/memberhapus.php on line 5
+[20-Apr-2019 21:27:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/u5238264/public_html/elizasby.net/include/fungsi.php on line 35
+[20-Apr-2019 21:27:43 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5238264/public_html/elizasby.net/add/memberhapus.php on line 7
+[21-Apr-2019 11:37:24 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[23-Apr-2019 17:59:08 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[23-Apr-2019 18:10:51 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[25-Apr-2019 19:10:02 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[28-Apr-2019 22:10:31 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[30-Apr-2019 07:17:11 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[30-Apr-2019 09:09:31 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[01-May-2019 20:21:04 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[04-May-2019 09:02:02 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[07-May-2019 06:25:30 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[08-May-2019 07:28:17 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[10-May-2019 18:37:58 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[12-May-2019 19:49:21 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5238264/public_html/elizasby.net/add/withdrawalpro.php on line 66
+[15-May-2019 07:18:44 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[15-May-2019 09:06:45 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[16-May-2019 07:15:49 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[21-May-2019 07:32:12 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[22-May-2019 19:57:52 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[10-Jun-2019 13:05:58 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[13-Jun-2019 11:55:57 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
+[17-Jun-2019 14:28:05 Asia/Jakarta] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/u5238264/public_html/elizasby.net/classes/class.phpmailer.php on line 1432
