@@ -76,6 +76,13 @@ if (isset($_FILES['file']['name']) && in_array($_FILES['file']['type'], $file_mi
                 </script>
                 ";
             }
+        } else {
+            echo "
+                <script>
+                    alert('upload gagal ". $data[2] ." tidak ada');
+                    document.location.href = 'tampilan-fbs.php';
+                </script>
+                ";
         }
     }
 }
