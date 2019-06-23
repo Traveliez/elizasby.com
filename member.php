@@ -206,7 +206,7 @@ session_start();
                                                 <a href="javascript:void(0);" >
                                                     <span class="badge bg-cyan"><i class="material-icons">done</i></span> 
                                                 </a> ||
-                                                <a href="javascript:void(0);" >
+                                                <a href="add/memberhapus.php?id=<?= $row["id_member"] ?>" onClick="if(confirm('Apakah anda yakin ingin menghapusnya ?')){return true}else{return false}" >
                                                     <span class="badge bg-pink"><i class="material-icons">delete</i></span>
                                                 </a>
                                             </td>

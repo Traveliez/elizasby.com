@@ -3317,3 +3317,407 @@ Stack trace:
 [17-Apr-2019 19:51:16 Asia/Jakarta] PHP Notice:  Undefined index: norek in /home/u5238264/public_html/elizasby.net/tampilan-fbs.php on line 147
 [17-Apr-2019 19:51:16 Asia/Jakarta] PHP Notice:  Undefined index: total in /home/u5238264/public_html/elizasby.net/tampilan-fbs.php on line 159
 [17-Apr-2019 19:51:59 Asia/Jakarta] PHP Notice:  Undefined index: rebate_client in /home/u5238264/public_html/elizasby.net/tampilan-fbs.php on line 135
+[17-Apr-2019 22:03:19 Asia/Jakarta] PHP Notice:  Undefined offset: 0 in /home/u5238264/public_html/elizasby.net/bagirebate.php on line 28
+[17-Apr-2019 22:05:33 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Apr-2019 22:06:14 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Apr-2019 22:06:16 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 08:34:35 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 08:34:47 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:14:16 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:20:23 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:21:15 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:23:26 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:23:38 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:23:39 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:23:46 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-Apr-2019 12:24:24 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[20-Apr-2019 12:36:13 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:36:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:24 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:33 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:39 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:44 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:37:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:38:11 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:38:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:38:37 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:38:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:39:08 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:39:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:39:28 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:39:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:39:55 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:39:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:40:19 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:40:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:40:25 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:40:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:40:43 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:40:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:41:03 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:41:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:41:33 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:41:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:41:53 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:41:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:42:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:42:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:42:37 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:42:37 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:43:12 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:43:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:43:31 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:43:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:43:50 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:43:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:05 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:12 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:12 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:35 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:39 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:44:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:45:18 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:45:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:45:23 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:45:23 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:45:56 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:45:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:02 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:07 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:19 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:24 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:49 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:46:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:10 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:22 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:44 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:47:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:00 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:05 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:10 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:21 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:25 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:46 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:52 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:48:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:14 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:19 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:51 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:56 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:49:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:50:24 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:50:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:50:30 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:50:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:50:50 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:50:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:51:25 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:51:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:51:58 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:51:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:03 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:09 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:13 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:18 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:36 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:52:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:53:01 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:53:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:53:34 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:53:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:53:39 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:53:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:08 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:13 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:43 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:50 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:54:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:55:14 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:55:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:55:45 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:55:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:55:51 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:55:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:56:34 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:56:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:56:57 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:56:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:57:02 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:57:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:57:06 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:57:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:57:27 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 12:57:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 18:00:11 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 18:00:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 18:19:36 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 18:19:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 21:16:24 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-Apr-2019 21:16:24 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[22-Apr-2019 10:12:21 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[22-Apr-2019 10:12:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[22-Apr-2019 17:42:34 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:41:32 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:42:31 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:42:39 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:42:41 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:42:48 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:42:49 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:43:13 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:43:36 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[23-Apr-2019 17:43:37 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[25-Apr-2019 07:15:49 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[25-Apr-2019 08:05:46 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[25-Apr-2019 08:14:31 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[26-Apr-2019 06:40:07 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[26-Apr-2019 06:40:43 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[26-Apr-2019 06:40:45 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[26-Apr-2019 06:44:10 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[26-Apr-2019 10:08:16 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[27-Apr-2019 10:20:55 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:20:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:21:20 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:21:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:21:54 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:21:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:22:25 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:22:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:23:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:23:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:24:05 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[27-Apr-2019 10:24:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:16 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:23 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:23 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:28 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:36 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:42 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:48 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:54 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:50:54 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:04 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:28 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:39 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:46 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:52 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:52 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:57 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:51:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:04 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:21 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:25 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:38 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[28-Apr-2019 15:52:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[29-Apr-2019 08:02:18 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[29-Apr-2019 08:02:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[29-Apr-2019 15:56:26 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[29-Apr-2019 15:56:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[29-Apr-2019 15:56:43 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[29-Apr-2019 15:56:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[30-Apr-2019 09:16:00 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[30-Apr-2019 09:16:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[30-Apr-2019 17:38:32 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[30-Apr-2019 17:38:44 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[30-Apr-2019 17:38:51 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[01-May-2019 06:17:43 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[01-May-2019 06:18:07 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[01-May-2019 06:18:09 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[01-May-2019 19:58:57 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[02-May-2019 08:37:28 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[03-May-2019 19:05:38 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[04-May-2019 08:52:05 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[04-May-2019 10:08:35 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:08:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:09:08 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:09:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:09:30 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:09:30 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:10:11 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:10:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:10:51 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:10:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:11:11 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:11:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:11:40 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:11:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:13:39 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:13:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:13:44 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[04-May-2019 10:13:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[06-May-2019 07:01:09 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[06-May-2019 07:01:17 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[06-May-2019 07:01:19 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[07-May-2019 11:40:48 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[08-May-2019 19:19:52 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[08-May-2019 19:19:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-May-2019 10:14:01 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-May-2019 10:14:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-May-2019 10:45:41 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-May-2019 10:45:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[12-May-2019 09:15:26 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[12-May-2019 09:15:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[12-May-2019 20:38:16 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[12-May-2019 20:38:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[12-May-2019 20:41:47 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 05:11:11 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 07:07:15 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 07:07:15 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 08:55:02 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 08:55:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 08:55:29 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 08:55:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 08:56:34 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 08:56:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[13-May-2019 11:20:39 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 11:20:51 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 11:20:53 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 15:07:52 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 15:08:19 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 15:08:21 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 15:08:33 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[13-May-2019 15:08:35 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[15-May-2019 15:17:07 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[15-May-2019 15:17:14 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[16-May-2019 07:12:03 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[16-May-2019 07:16:05 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[16-May-2019 18:57:35 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 18:57:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 19:03:34 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 19:03:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 19:03:47 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 19:03:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 19:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 19:04:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[16-May-2019 19:04:18 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[18-May-2019 09:41:53 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:41:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:42:14 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:42:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:42:40 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:42:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:43:03 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:43:03 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:43:44 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:43:44 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:45:02 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:45:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:46:33 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:46:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:47:17 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:47:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:47:41 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:47:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:56:17 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 09:56:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 12:58:43 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 12:58:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 13:28:29 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-May-2019 13:28:29 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[20-May-2019 17:23:54 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[20-May-2019 17:26:36 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[22-May-2019 19:58:01 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[22-May-2019 19:58:11 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[22-May-2019 19:58:12 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[27-May-2019 09:24:56 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[27-May-2019 09:25:06 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[27-May-2019 09:25:08 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[28-May-2019 10:22:00 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[28-May-2019 10:22:08 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[28-May-2019 10:22:09 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[02-Jun-2019 14:17:39 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[02-Jun-2019 14:17:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[03-Jun-2019 06:47:25 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[03-Jun-2019 06:47:42 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[03-Jun-2019 06:47:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[03-Jun-2019 09:54:06 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[03-Jun-2019 09:54:18 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[03-Jun-2019 09:54:20 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[03-Jun-2019 11:03:18 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[04-Jun-2019 22:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[05-Jun-2019 14:36:41 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[06-Jun-2019 13:36:08 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[09-Jun-2019 13:46:18 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[09-Jun-2019 13:46:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-Jun-2019 14:03:36 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-Jun-2019 14:03:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-Jun-2019 14:03:56 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[11-Jun-2019 14:03:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[14-Jun-2019 11:15:27 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[14-Jun-2019 11:15:40 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[14-Jun-2019 11:15:42 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[16-Jun-2019 09:47:58 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[16-Jun-2019 14:07:41 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Jun-2019 15:19:30 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Jun-2019 15:19:49 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Jun-2019 15:19:51 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Jun-2019 19:25:07 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Jun-2019 19:29:29 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[17-Jun-2019 19:54:28 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[17-Jun-2019 19:54:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[17-Jun-2019 20:07:14 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[17-Jun-2019 20:07:14 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-Jun-2019 07:35:11 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-Jun-2019 07:35:11 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[18-Jun-2019 10:56:41 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[19-Jun-2019 09:07:05 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[19-Jun-2019 20:33:06 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/kontes.php on line 335
+[19-Jun-2019 20:33:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/kontes.php on line 335
+[19-Jun-2019 20:36:42 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[19-Jun-2019 20:40:14 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[21-Jun-2019 09:17:13 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[21-Jun-2019 09:17:22 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[21-Jun-2019 09:17:23 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[21-Jun-2019 09:17:36 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[21-Jun-2019 09:17:38 Asia/Jakarta] PHP Notice:  Undefined variable: ratefw in /home/u5238264/public_html/elizasby.net/ratebank.php on line 186
+[21-Jun-2019 19:09:40 Asia/Jakarta] PHP Notice:  Undefined variable: rate in /home/u5238264/public_html/elizasby.net/profil.php on line 433
+[21-Jun-2019 19:09:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/u5238264/public_html/elizasby.net/profil.php on line 433
