@@ -373,6 +373,9 @@
                         </a>
                         <ul class="ml-menu">
                             <li>
+                                <a href="copytrading">Copy Trading</a>
+                            </li>
+                            <li>
                                 <a href="postartikel">Posting Artikel</a>
                             </li>
                             <li>
@@ -393,6 +396,9 @@
                             <span>Post</span>
                         </a>
                         <ul class="ml-menu">
+                            <li>
+                                <a href="copytrading">Copy Trading</a>
+                            </li>
                             <li>
                                 <a href="postartikel">Posting Artikel</a>
                             </li>
