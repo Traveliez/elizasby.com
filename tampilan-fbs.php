@@ -8,7 +8,9 @@ session_start();
     require 'include/header.php';
     $juhal = "rebate_xls";
 
-    $tampil_fbs = query("SELECT * FROM data_fbs ORDER BY id DESC");
+    //query filter berdasarkan nama broker
+    $nama_broker = "fbs";
+    $tampil_fbs = query("SELECT * FROM data_fbs WHERE nama_broker = '$nama_broker' ORDER BY id DESC");
 ?>
 
 <body class="theme-blue">
@@ -63,10 +65,11 @@ session_start();
                                 Data XLS FBS
                             </h1>
                             <form action='upload-fbs.php' method='post' enctype='multipart/form-data'>
-                            
-                            <input class="custom-file-upload" id="file-upload" type="file" name="file"/> 
-                              
-                            <input class="custom-file-submit" id="file-submit" type="submit" value="Upload"/>
+                                <!-- filter untuk nama broker -->
+                                <input type="hidden" name="broker" value="fbs">
+                                <!--  -->
+                                <input class="custom-file-upload" id="file-upload" type="file" name="file"/> 
+                                <input class="custom-file-submit" id="file-submit" type="submit" value="Upload"/>
                     		</form>
                         </div>
                         
@@ -80,7 +83,7 @@ session_start();
                                             <th>Tanggal</th>
                                             <th>Periode</th>
                                             <th>ID</th>
-                                            <th>Nama</th>
+                                            <th>Email</th>
                                             <th>Auto Rebate</th>
                                             <th>Rebate Client($)</th>  
                                             <th>Rebate Client(Rp)</th>
@@ -131,7 +134,7 @@ session_start();
                                             </td>
                                             <td><?= $row["periode"] ?></td>                          
                                             <td><?= $row["no_akun"] ?></td>                          
-                                            <td><?= $row["nama"] ?></td>
+                                            <td><?= $row["email"] ?></td>
                                             <td><?= $row["auto_rebate"] ?></td>
                                             <td><?= $row["rebate_dollar"] ?></td>
                                             <td><?= $row["rebate_rupiah"] ?></td>
@@ -143,37 +146,37 @@ session_start();
                                             <?php 
                                             $idbukti = $row['id'];
                                             
-                                            $query = query("SELECT * FROM bukti_transfer WHERE id='$idbukti'");
-                                            if(isset($query[0]['bukti_transfer'])){
-                                                echo '<img class="zoom"  src="bukti_transfer/'.$query[0]['bukti_transfer'].'" style="width:80%; max-width:200px; height:100%; max-height:200px">';
-                                                echo "<form action='edit_bukti_transfer.php?id=$idbukti' method='post' enctype='multipart/form-data'>
-                    		                    <input class='custom-file-upload' id='file-upload' type='file' name='file'>
- 
-                    		                    <input class='custom-file-submit' id='file-submit' type='submit' name='edit' value='Edit'>
-                    		                    </form>
-                    		                    ";
-                                            } else {
-                                                echo "<form action='bukti_transfer.php?id=$idbukti' method='post' enctype='multipart/form-data'>
+                                            $query = query("SELECT * FROM data_fbs WHERE id='$idbukti' AND nama_broker='$nama_broker'");
+											foreach ($query as $row ) {
+												if($row['bukti_transaksi'] != ""){
+													echo '<img class="zoom"  src="bukti_transfer/'.$row['bukti_transaksi'].'" style="width:80%; max-width:200px; height:100%; max-height:200px">';
+													echo "<form action='upload_bukti_tf_fbs.php?id=$idbukti' method='post' enctype='multipart/form-data'>
+													<input class='custom-file-upload' id='file-upload' type='file' name='file'>
+													<input class='custom-file-submit' id='file-submit' type='submit' name='edit' value='Edit'>
+													</form>
+													";
+												} else {
+													echo "<form action='upload_bukti_tf_fbs.php?id=$idbukti' method='post' enctype='multipart/form-data'>
 
-                    		                    <input class='custom-file-upload' type='file' name='file'>
- 
-                    		                    <input class='custom-file-submit' type='submit' name='upload' value='Upload'>
-                    		                    </form>
-                    		                    ";
-                                            }
+													<input class='custom-file-upload' type='file' name='file'>
+													<input class='custom-file-submit' type='submit' name='upload' value='Upload'>
+													</form>
+													";
+												}
                                                 
+											}
                     		                ?>
                     		                </td>
                     		                
                     		                
                                             <td class="actions">
-                                                <a href="add/withdrawalpro.php?id=<?= $row["id"] ?>" >
+                                                <a href="add/fbs/accept.php?id=<?= $row["id"] ?>" >
                                                     <span class="badge bg-cyan"><i class="material-icons">done</i></span> 
                                                 </a> ||
-                                                <a href="add/withdrawalga.php?id=<?= $row["id"] ?>" onClick="if(confirm('Apakah anda yakin withdrawal gagal ?')){return true}else{return false}" >
+                                                <a href="add/fbs/cancel.php?id=<?= $row["id"] ?>" onClick="if(confirm('Apakah anda yakin ?')){return true}else{return false}" >
                                                     <span class="badge bg-orange"><i class="material-icons">close</i></span>
                                                 </a> ||
-                                                <a href="add/withdrawalhapus.php?id=<?= $row["id"] ?>" onClick="if(confirm('Apakah anda yakin ingin menghapusnya ?')){return true}else{return false}" >
+                                                <a href="add/fbs/delete.php?id=<?= $row["id"] ?>" onClick="if(confirm('Apakah anda yakin ingin menghapusnya ?')){return true}else{return false}" >
                                                     <span class="badge bg-pink"><i class="material-icons">delete</i></span>
                                                 </a>
                                             </td> 

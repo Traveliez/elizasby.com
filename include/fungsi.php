@@ -18,7 +18,7 @@
  
 
 //koneksi database
-$conn = mysqli_connect('localhost', 'u5238264_er','wber2018','u5238264_wb');
+$conn = mysqli_connect('localhost', 'u523858181_eliza','google123','u523858181_eliza');
 //$conn = mysqli_connect('localhost', 'root','','warungbroker');
 //$conn = mysqli_connect('elizasby.com', 'u5238264_er','wber2018','u5238264_wb');
 

@@ -18,6 +18,9 @@ if (isset($_FILES['file']['name']) && in_array($_FILES['file']['type'], $file_mi
     $arr_file = explode('.', $_FILES['file']['name']);
     $extension = end($arr_file);
 
+    // menentukan nama broker
+    $nama_broker = $_POST['broker'];
+    
     if ($extension == 'csv') {
         $reader = IOFactory::createReader('Csv');
     }
@@ -29,12 +32,41 @@ if (isset($_FILES['file']['name']) && in_array($_FILES['file']['type'], $file_mi
         if ($index == 0) {
             continue;
         }
-        $bank = query("SELECT bank, norek FROM withdraw WHERE no_akun = '$data[1]'");
+        $bank = query("SELECT bank, norek FROM withdraw WHERE email = '$data[2]'");
+        
+        $email_rebate = query("SELECT email FROM rebate WHERE email = '$data[2]'");
+        $email_saku = query("SELECT email FROM saku WHERE email = '$data[2]'");
+
+
+        if($email_rebate[0]['email'] == $email_saku[0]['email']){
+            if($data[5] < 10000){
+                $saldo_awal = query("SELECT saldo FROM saku WHERE email = '$data[2]'")[0];
+                $saldo = $saldo_awal['saldo'] + $data[5];
+                mysqli_query($conn, "UPDATE saku SET saldo = $saldo WHERE email = '$data[2]'");
+            } else {
+                mysqli_query($conn, "UPDATE rebate SET status = 'sukses' WHERE email = '$data[2]'");
+            }
+        } else {
+            echo "
+                <script>
+                    alert('$data[2] tidak ditemukan');
+                    document.location.href = 'tampilan-fbs.php';
+                </script>
+                ";
+        }
+        
         if (isset($bank[0])) {
             $tanggal = date('Y-m-d H:i:s');
             $xx = "'" . implode("','", $data) . "'";
-            $sql = "INSERT INTO data_fbs (tanggal, periode, no_akun, nama, auto_rebate, rebate_dollar, rebate_rupiah, lot, bank, norek) VALUES ('$tanggal', $xx, '" . $bank[0]['bank'] . "', '" . $bank[0]['norek'] . "')";
-            if (mysqli_query($conn, $sql) === TRUE) {
+            $sql = "INSERT INTO data_fbs (tanggal, timer, periode, no_akun, email, auto_rebate, rebate_dollar, rebate_rupiah, lot, bank, norek, nama_broker) VALUES ('$tanggal', '$tanggal', $xx, '" . $bank[0]['bank'] . "', '" . $bank[0]['norek'] . "', '". $nama_broker ."')";
+            $insert = mysqli_query($conn, $sql);
+
+            //fitur auto rebate
+            if ($data[3] > 0.0) {
+                mysqli_query($conn, "UPDATE data_fbs SET status = 4 WHERE email = '$data[2]' AND timer = '$tanggal' AND no_akun = '$data[1]'");
+            }
+
+            if ($insert === TRUE) {
                 header('Location: tampilan-fbs.php');
             } else {
                 echo "
