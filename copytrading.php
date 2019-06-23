@@ -8,6 +8,7 @@ session_start();
     require 'include/header.php';
 
     $tampil = query("SELECT * FROM copytrading ORDER BY no DESC");
+    $juhal = "postartikel";
     
 if( isset($_POST["tambahdata"]) ) {
     $broker = htmlspecialchars(strtolower($_POST["broker"]));    
